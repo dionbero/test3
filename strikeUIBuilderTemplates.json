@@ -1,0 +1,369 @@
+[ {
+  "currentItems" : [ {
+    "style" : {
+      "border" : {
+        "left" : false,
+        "bottom" : false,
+        "right" : false,
+        "top" : false
+      },
+      "margin" : {
+        "left" : "",
+        "bottom" : "",
+        "right" : "",
+        "top" : "",
+        "around" : "small",
+        "type" : "uniform"
+      },
+      "padding" : {
+        "left" : "",
+        "bottom" : "",
+        "right" : "",
+        "top" : "",
+        "around" : "",
+        "type" : "uniform"
+      }
+    },
+    "gutterSize" : "small",
+    "additionalClasses" : "slds-m-around_small",
+    "wrap" : true,
+    "children" : [ {
+      "components" : [ {
+        "additionalClasses" : "slds-card",
+        "containerAlignment" : "none",
+        "containerSize" : "slds-container_fluid",
+        "children" : [ {
+          "components" : [ {
+            "previewMarkup" : "<![CDATA[<div class=\"slds-page-header\">\n    <div class=\"slds-media\">\n        <div class=\"slds-media__figure\">\n            <span class=\"slds-icon_container slds-icon-standard-opportunity\" title=\"Description of icon when needed\">\n                <svg class=\"slds-icon slds-page-header__icon\" aria-hidden=\"true\">\n                    <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/_slds/icons/v7.31.0/standard-sprite/svg/symbols.svg#opportunity\" />\n                </svg>\n            </span>\n        </div>\n        <div class=\"slds-media__body\">\n            <h1 class=\"slds-page-header__title slds-truncate slds-align-middle\" title=\"Rohde Corp - 80,000 Widgets\">\n                Rohde Corp - 80,000 Widgets\n            </h1>\n            <p class=\"slds-text-body_small slds-line-height_reset\">\n                Mark Jaeckal • Unlimited Customer • 11/13/15\n            </p>\n        </div>\n    </div>\n</div>]]>",
+            "unmodifiedMarkup" : "<div class=\"slds-page-header\">\n    <div class=\"slds-media\">\n        <div class=\"slds-media__figure\">\n            <span class=\"slds-icon_container slds-icon-standard-opportunity\" title=\"Description of icon when needed\">\n                <svg class=\"slds-icon slds-page-header__icon\" aria-hidden=\"true\">\n                    <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/assets/icons/standard-sprite/svg/symbols.svg#opportunity\" />\n                </svg>\n            </span>\n        </div>\n        <div class=\"slds-media__body\">\n            <h1 class=\"slds-page-header__title slds-truncate slds-align-middle\" title=\"Rohde Corp - 80,000 Widgets\">\n                Rohde Corp - 80,000 Widgets\n            </h1>\n            <p class=\"slds-text-body_small slds-line-height_reset\">\n                Mark Jaeckal • Unlimited Customer • 11/13/15\n            </p>\n        </div>\n    </div>\n</div>",
+            "style" : {
+              "border" : {
+                "left" : false,
+                "bottom" : false,
+                "right" : false,
+                "top" : false
+              },
+              "margin" : {
+                "left" : "",
+                "bottom" : "",
+                "right" : "",
+                "top" : "",
+                "around" : "",
+                "type" : "uniform"
+              },
+              "padding" : {
+                "left" : "",
+                "bottom" : "",
+                "right" : "",
+                "top" : "",
+                "around" : "",
+                "type" : "uniform"
+              }
+            },
+            "children" : [ ],
+            "markup" : "<div class=\"slds-page-header\">\n    <div class=\"slds-media\">\n        <div class=\"slds-media__figure\">\n            <span class=\"slds-icon_container slds-icon-standard-opportunity\" title=\"Description of icon when needed\">\n                <svg class=\"slds-icon slds-page-header__icon\" aria-hidden=\"true\">\n                    <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/assets/icons/standard-sprite/svg/symbols.svg#opportunity\" />\n                </svg>\n            </span>\n        </div>\n        <div class=\"slds-media__body\">\n            <h1 class=\"slds-page-header__title slds-truncate slds-align-middle\" title=\"Rohde Corp - 80,000 Widgets\">\n                Rohde Corp - 80,000 Widgets\n            </h1>\n            <p class=\"slds-text-body_small slds-line-height_reset\">\n                Mark Jaeckal • Unlimited Customer • 11/13/15\n            </p>\n        </div>\n    </div>\n</div>",
+            "paletteIconName" : "custom:custom62",
+            "isInline" : false,
+            "category" : "Page Data",
+            "dropzone" : false,
+            "id" : "310.149702555695381050.5072661555420654",
+            "title" : "Page Header"
+          } ]
+        } ],
+        "markup" : "",
+        "paletteIconName" : "custom:custom104",
+        "isInline" : false,
+        "dropzone" : true,
+        "status" : 0.33517796167524594,
+        "id" : "9980.28933208619531015",
+        "title" : "Container"
+      } ],
+      "additionalClasses" : "slds-m-bottom_medium",
+      "largeRightSize" : "2",
+      "largeLeftSize" : "1",
+      "largeSize" : false,
+      "mediumRightSize" : "1",
+      "mediumLeftSize" : "1",
+      "mediumSize" : true,
+      "smallRightSize" : "2",
+      "smallLeftSize" : "1",
+      "smallSize" : false,
+      "rightSize" : "1",
+      "leftSize" : "1",
+      "type" : "sized",
+      "id" : 0.33517796167524594
+    }, {
+      "components" : [ {
+        "style" : {
+          "border" : {
+            "left" : false,
+            "bottom" : false,
+            "right" : false,
+            "top" : false
+          },
+          "margin" : {
+            "left" : "",
+            "bottom" : "medium",
+            "right" : "",
+            "top" : "",
+            "around" : "",
+            "type" : "varied"
+          },
+          "padding" : {
+            "left" : "",
+            "bottom" : "medium",
+            "right" : "",
+            "top" : "",
+            "around" : "small",
+            "type" : "uniform"
+          }
+        },
+        "additionalClasses" : "slds-card      slds-p-around_small slds-m-bottom_medium",
+        "containerAlignment" : "none",
+        "containerSize" : "slds-container_fluid",
+        "children" : [ {
+          "components" : [ {
+            "previewMarkup" : "<![CDATA[<div class=\"slds-tabs_default\">\n    <ul class=\"slds-tabs_default__nav\" role=\"tablist\">\n        <li class=\"slds-tabs_default__item slds-is-active\" title=\"Item One\" role=\"presentation\">\n            <a class=\"slds-tabs_default__link\" href=\"javascript:void(0);\" role=\"tab\" tabindex=\"0\" aria-selected=\"true\" aria-controls=\"tab-default-1\" id=\"tab-default-1__item\">\n                Item One\n            </a>\n        </li>\n        <li class=\"slds-tabs_default__item\" title=\"Item Two\" role=\"presentation\">\n            <a class=\"slds-tabs_default__link\" href=\"javascript:void(0);\" role=\"tab\" tabindex=\"-1\" aria-selected=\"false\" aria-controls=\"tab-default-2\" id=\"tab-default-2__item\">\n                Item Two\n            </a>\n        </li>\n        <li class=\"slds-tabs_default__item\" title=\"Item Three\" role=\"presentation\">\n            <a class=\"slds-tabs_default__link\" href=\"javascript:void(0);\" role=\"tab\" tabindex=\"-1\" aria-selected=\"false\" aria-controls=\"tab-default-3\" id=\"tab-default-3__item\">\n                Item Three\n            </a>\n        </li>\n    </ul>\n</div>]]>",
+            "unmodifiedMarkup" : "<div class=\"slds-tabs_default\">\n    <ul class=\"slds-tabs_default__nav\" role=\"tablist\">\n        <li class=\"slds-tabs_default__item slds-is-active\" title=\"Item One\" role=\"presentation\">\n            <a class=\"slds-tabs_default__link\" href=\"javascript:void(0);\" role=\"tab\" tabindex=\"0\" aria-selected=\"true\" aria-controls=\"tab-default-1\" id=\"tab-default-1__item\">\n                Item One\n            </a>\n        </li>\n        <li class=\"slds-tabs_default__item\" title=\"Item Two\" role=\"presentation\">\n            <a class=\"slds-tabs_default__link\" href=\"javascript:void(0);\" role=\"tab\" tabindex=\"-1\" aria-selected=\"false\" aria-controls=\"tab-default-2\" id=\"tab-default-2__item\">\n                Item Two\n            </a>\n        </li>\n        <li class=\"slds-tabs_default__item\" title=\"Item Three\" role=\"presentation\">\n            <a class=\"slds-tabs_default__link\" href=\"javascript:void(0);\" role=\"tab\" tabindex=\"-1\" aria-selected=\"false\" aria-controls=\"tab-default-3\" id=\"tab-default-3__item\">\n                Item Three\n            </a>\n        </li>\n    </ul>\n    <div id=\"tab-default-1\" class=\"slds-tabs_default__content slds-show\" role=\"tabpanel\" aria-labelledby=\"tab-default-1__item\">\n        Item One Content\n    </div>\n    <div id=\"tab-default-2\" class=\"slds-tabs_default__content slds-hide\" role=\"tabpanel\" aria-labelledby=\"tab-default-2__item\">\n        Item Two Content\n    </div>\n    <div id=\"tab-default-3\" class=\"slds-tabs_default__content slds-hide\" role=\"tabpanel\" aria-labelledby=\"tab-default-3__item\">\n        Item Three Content\n    </div>\n</div>",
+            "children" : [ ],
+            "markup" : "<div class=\"slds-tabs_default\">\n    <ul class=\"slds-tabs_default__nav\" role=\"tablist\">\n        <li class=\"slds-tabs_default__item slds-is-active\" title=\"Item One\" role=\"presentation\">\n            <a class=\"slds-tabs_default__link\" href=\"javascript:void(0);\" role=\"tab\" tabindex=\"0\" aria-selected=\"true\" aria-controls=\"tab-default-1\" id=\"tab-default-1__item\">\n                Item One\n            </a>\n        </li>\n        <li class=\"slds-tabs_default__item\" title=\"Item Two\" role=\"presentation\">\n            <a class=\"slds-tabs_default__link\" href=\"javascript:void(0);\" role=\"tab\" tabindex=\"-1\" aria-selected=\"false\" aria-controls=\"tab-default-2\" id=\"tab-default-2__item\">\n                Item Two\n            </a>\n        </li>\n        <li class=\"slds-tabs_default__item\" title=\"Item Three\" role=\"presentation\">\n            <a class=\"slds-tabs_default__link\" href=\"javascript:void(0);\" role=\"tab\" tabindex=\"-1\" aria-selected=\"false\" aria-controls=\"tab-default-3\" id=\"tab-default-3__item\">\n                Item Three\n            </a>\n        </li>\n    </ul>\n</div>",
+            "paletteIconName" : "custom:custom96",
+            "isInline" : false,
+            "category" : "Navigation",
+            "dropzone" : false,
+            "id" : "160.49005193699451620.9637634198538363",
+            "title" : "Tabs"
+          }, {
+            "previewMarkup" : "<![CDATA[<h2 class=\"slds-text-heading_medium slds-p-top_small slds-p-right_small slds-p-left_small\">\n    Medium Heading\n</h2>]]>",
+            "unmodifiedMarkup" : "<h2 class=\"slds-text-heading_medium\">\n    Medium Heading\n</h2>",
+            "style" : {
+              "border" : {
+                "left" : false,
+                "bottom" : false,
+                "right" : false,
+                "top" : false
+              },
+              "margin" : {
+                "left" : "",
+                "bottom" : "",
+                "right" : "",
+                "top" : "",
+                "around" : "",
+                "type" : "uniform"
+              },
+              "padding" : {
+                "left" : "small",
+                "bottom" : "",
+                "right" : "small",
+                "top" : "small",
+                "around" : "small",
+                "type" : "varied"
+              }
+            },
+            "children" : [ ],
+            "markup" : "<h2 class=\"slds-text-heading_medium slds-p-top_small slds-p-right_small slds-p-left_small\">\n    Medium Heading\n</h2>",
+            "paletteIconName" : "custom:custom55",
+            "isInline" : false,
+            "category" : "Text",
+            "dropzone" : false,
+            "id" : "210.78256299183566670.5376558183539062",
+            "title" : "Heading Medium"
+          }, {
+            "style" : {
+              "border" : {
+                "left" : false,
+                "bottom" : false,
+                "right" : false,
+                "top" : false
+              },
+              "margin" : {
+                "left" : "",
+                "bottom" : "",
+                "right" : "",
+                "top" : "",
+                "around" : "",
+                "type" : "uniform"
+              },
+              "padding" : {
+                "left" : "",
+                "bottom" : "",
+                "right" : "",
+                "top" : "",
+                "around" : "medium",
+                "type" : "uniform"
+              }
+            },
+            "additionalClasses" : "slds-p-around_medium",
+            "containerAlignment" : "none",
+            "containerSize" : "slds-container_fluid",
+            "children" : [ {
+              "components" : [ ]
+            } ],
+            "markup" : "",
+            "paletteIconName" : "custom:custom104",
+            "isInline" : false,
+            "dropzone" : true,
+            "id" : "9980.706851413472291",
+            "title" : "Container"
+          } ]
+        } ],
+        "markup" : "",
+        "paletteIconName" : "custom:custom104",
+        "isInline" : false,
+        "dropzone" : true,
+        "status" : 0.46003795434864236,
+        "id" : "9980.10443087753677527",
+        "title" : "Container"
+      } ],
+      "additionalClasses" : "",
+      "largeRightSize" : "2",
+      "largeLeftSize" : "1",
+      "largeSize" : false,
+      "mediumRightSize" : "3",
+      "mediumLeftSize" : "2",
+      "mediumSize" : true,
+      "smallRightSize" : "2",
+      "smallLeftSize" : "1",
+      "smallSize" : false,
+      "rightSize" : "1",
+      "leftSize" : "1",
+      "type" : "sized",
+      "id" : 0.46003795434864236
+    }, {
+      "components" : [ {
+        "style" : {
+          "border" : {
+            "left" : false,
+            "bottom" : false,
+            "right" : false,
+            "top" : false
+          },
+          "margin" : {
+            "left" : "",
+            "bottom" : "",
+            "right" : "",
+            "top" : "",
+            "around" : "",
+            "type" : "uniform"
+          },
+          "padding" : {
+            "left" : "",
+            "bottom" : "",
+            "right" : "",
+            "top" : "",
+            "around" : "small",
+            "type" : "uniform"
+          }
+        },
+        "additionalClasses" : "slds-card  slds-p-around_small",
+        "containerAlignment" : "none",
+        "containerSize" : "slds-container_fluid",
+        "children" : [ {
+          "components" : [ {
+            "previewMarkup" : "<![CDATA[<h2 class=\"slds-text-heading_medium slds-p-around_xx-small slds-border_bottom\">\n    Medium Heading\n</h2>]]>",
+            "unmodifiedMarkup" : "<h2 class=\"slds-text-heading_medium\">\n    Medium Heading\n</h2>",
+            "style" : {
+              "border" : {
+                "left" : false,
+                "bottom" : true,
+                "right" : false,
+                "top" : false
+              },
+              "margin" : {
+                "left" : "",
+                "bottom" : "",
+                "right" : "",
+                "top" : "",
+                "around" : "",
+                "type" : "uniform"
+              },
+              "padding" : {
+                "left" : "xx-small",
+                "bottom" : "small",
+                "right" : "xx-small",
+                "top" : "xx-small",
+                "around" : "xx-small",
+                "type" : "uniform"
+              }
+            },
+            "children" : [ ],
+            "markup" : "<h2 class=\"slds-text-heading_medium slds-p-around_xx-small slds-border_bottom\">\n    Medium Heading\n</h2>",
+            "paletteIconName" : "custom:custom55",
+            "isInline" : false,
+            "category" : "Text",
+            "dropzone" : false,
+            "id" : "210.244279711241443650.07121205903628591",
+            "title" : "Heading Medium"
+          }, {
+            "style" : {
+              "border" : {
+                "left" : false,
+                "bottom" : false,
+                "right" : false,
+                "top" : false
+              },
+              "margin" : {
+                "left" : "",
+                "bottom" : "",
+                "right" : "",
+                "top" : "",
+                "around" : "",
+                "type" : "uniform"
+              },
+              "padding" : {
+                "left" : "",
+                "bottom" : "",
+                "right" : "",
+                "top" : "",
+                "around" : "medium",
+                "type" : "uniform"
+              }
+            },
+            "additionalClasses" : "slds-p-around_medium",
+            "containerAlignment" : "none",
+            "containerSize" : "slds-container_fluid",
+            "children" : [ {
+              "components" : [ ]
+            } ],
+            "markup" : "",
+            "paletteIconName" : "custom:custom104",
+            "isInline" : false,
+            "dropzone" : true,
+            "id" : "9980.6617777461226544",
+            "title" : "Container"
+          } ]
+        } ],
+        "markup" : "",
+        "paletteIconName" : "custom:custom104",
+        "isInline" : false,
+        "dropzone" : true,
+        "status" : 0.19969679477557256,
+        "id" : "9980.1791956410348965",
+        "title" : "Container"
+      } ],
+      "additionalClasses" : "",
+      "largeRightSize" : "2",
+      "largeLeftSize" : "1",
+      "largeSize" : false,
+      "mediumRightSize" : "3",
+      "mediumLeftSize" : "1",
+      "mediumSize" : true,
+      "smallRightSize" : "2",
+      "smallLeftSize" : "1",
+      "smallSize" : false,
+      "rightSize" : "1",
+      "leftSize" : "1",
+      "type" : "sized",
+      "id" : 0.19969679477557256
+    } ],
+    "markup" : "",
+    "paletteIconName" : "custom:custom104",
+    "isInline" : false,
+    "dropzone" : true,
+    "status" : "base",
+    "id" : "9990.05757124152302007",
+    "title" : "Grid"
+  } ],
+  "type" : "page",
+  "name" : "template test"
+} ]
